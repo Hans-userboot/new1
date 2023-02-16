@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
+# Recode by @XYZUZUX
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import logging
@@ -23,7 +23,7 @@ API_HASH = os.environ.get("API_HASH", "")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "mrismanaziz")
+OWNER = os.environ.get("OWNER", "XYZUZUX")
 
 # Protect Content
 PROTECT_CONTENT = strtobool(os.environ.get("PROTECT_CONTENT", "False"))
